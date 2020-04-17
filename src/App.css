@@ -1,0 +1,29 @@
+
+
+.wrapper{
+    background-color: chocolate;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(to top, blueviolet, darksalmon) no-repeat center fixed;
+    -webkit-background-size: cover;
+}
+
+.intro{
+    width: 1000px;
+    min-height: 500px;
+    height: auto;
+    background: #FDD33A;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 50px;
+}
+
+
+
+

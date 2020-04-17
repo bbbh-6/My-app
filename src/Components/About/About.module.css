@@ -1,0 +1,18 @@
+.about {
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+}
+
+.about img {
+    width: 500px;
+    border-radius: 30px;
+    margin: 50px 0;
+}
+
+.about p{
+    margin: 0px 150px;
+    text-align: center;
+}

@@ -1,0 +1,43 @@
+.message_intro {
+    color: #fff;
+    font-size: 25px;
+    text-align: left;
+    padding: 30px 0;
+    width: 800px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+
+}
+
+.person{
+    margin-bottom: 20px;
+
+}
+#person_link{
+    text-decoration: none;
+    padding: 10px 20px;
+    color: #fff;
+    border: 1px solid opacity;
+    border-radius: 50px;
+    transition: color 0.2s linear;
+    transition: background 0.2s linear;
+    font-weight: 800;
+    transition: color 0.2s linear;
+    overflow: auto;
+}
+
+#person_link:hover{
+    color: blueviolet;
+}
+
+.person_link {
+    border-color: #377DFF ;
+    background: #377DFF ;
+    font-size: 25px;
+}
+
+.mes_m {
+    padding-bottom: 20px;
+    padding-left: 50px;
+}
